@@ -1,6 +1,6 @@
 cask "open-meow" do
-  version "0.0.2"
-  sha256 "01c18e765e6acd19d3dfad42b1ead4fe406680fe65f9f897b925c54d3d6c13bc"
+  version "0.0.3"
+  sha256 "fbdeb794bd84c5ac29e7d4017ba5c57bf5ce6e20166d8dee0ab6912c0d200264"
 
   url "https://github.com/PsiClaw/open-meow/releases/download/v#{version}/OpenMeow-v#{version}.dmg"
   name "OpenMeow"
